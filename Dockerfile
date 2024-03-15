@@ -1,2 +1,2 @@
-FROM jfu888/jsxa
+FROM jfu888/jsx
 USER 10001
